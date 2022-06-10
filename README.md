@@ -1,5 +1,8 @@
 # Useful Pointers for Assignment 2 of KR21
 
+Further details regarding the description of the task and the techniques used are available in the shared document. 
+Bayesian_Network_Reasoner___KR_Project_2.pdf
+
 ## BIFXML file format
 The BIFXML file format is meant to provide an easy means of exchanging Bayesian networks. It works with standard XML
 tags. The detailed description of the format can be found at 
